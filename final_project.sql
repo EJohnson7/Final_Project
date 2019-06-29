@@ -1,0 +1,5 @@
+-- DROP DATABASE IF EXISTS ProjectTwo_db;
+CREATE DATABASE JPdata;
+
+USE JPdata;
+
